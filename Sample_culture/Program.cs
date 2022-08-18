@@ -1,3 +1,6 @@
 ﻿using Sample_culture;
+using static Sample_culture.TestCulture;
 
-TestCulture.RunCulure();
+var info = TimeZoneInfo.Local.Id;
+
+Console.WriteLine(TestCulture.GetRequestedDateTime(DateTime.UtcNow, TimeZoneId.Arabian));

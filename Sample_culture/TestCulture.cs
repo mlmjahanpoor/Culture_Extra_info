@@ -2,7 +2,7 @@
 
 namespace Sample_culture;
 
-public class TestCulture
+public static class TestCulture
 {
     public static void RunCulure()
     {
@@ -112,5 +112,20 @@ public class TestCulture
         DateTime localZone = TimeZoneInfo.ConvertTimeFromUtc(date, info);
 
         #endregion ten
+    }
+
+    public static DateTime GetRequestedDateTime(this DateTime utcDateTime, string timeZoneId)
+    {
+        var info = TimeZoneInfo.FindSystemTimeZoneById(timeZoneId);
+        return TimeZoneInfo.ConvertTimeFromUtc(utcDateTime, info);
+    }
+
+    public static class TimeZoneId
+    {
+        public static string Iran { get; } = "Iran Standard Time";
+        public static string Arabian { get; } = "Arabian Standard Time";
+        public static string Israel { get; } = "Israel Standard Time";
+        public static string Jordan { get; } = "Jordan Standard Time";
+        public static string Samoa { get; } = "Samoa Standard Time";
     }
 }
