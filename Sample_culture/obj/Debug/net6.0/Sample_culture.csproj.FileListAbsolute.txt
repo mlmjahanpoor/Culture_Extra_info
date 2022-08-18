@@ -1,0 +1,15 @@
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\bin\Debug\net6.0\Sample_culture.exe
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\bin\Debug\net6.0\Sample_culture.deps.json
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\bin\Debug\net6.0\Sample_culture.runtimeconfig.json
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\bin\Debug\net6.0\Sample_culture.dll
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\bin\Debug\net6.0\ref\Sample_culture.dll
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\bin\Debug\net6.0\Sample_culture.pdb
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\obj\Debug\net6.0\Sample_culture.csproj.AssemblyReference.cache
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\obj\Debug\net6.0\Sample_culture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\obj\Debug\net6.0\Sample_culture.AssemblyInfoInputs.cache
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\obj\Debug\net6.0\Sample_culture.AssemblyInfo.cs
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\obj\Debug\net6.0\Sample_culture.csproj.CoreCompileInputs.cache
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\obj\Debug\net6.0\Sample_culture.dll
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\obj\Debug\net6.0\ref\Sample_culture.dll
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\obj\Debug\net6.0\Sample_culture.pdb
+C:\Users\Moslem jahanpoor\source\repos\Sample_culture\Sample_culture\obj\Debug\net6.0\Sample_culture.genruntimeconfig.cache
